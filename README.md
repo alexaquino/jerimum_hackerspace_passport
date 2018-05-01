@@ -1,6 +1,6 @@
 # Jerimum Hackerspace Passport
 
-"Hackerspace Passport" versão Jerimum Hackerspace (inglês - Alemão - Português)
+"Hackerspace Passport" versão Jerimum Hackerspace (Inglês - Alemão - Português)
 
 ![captura de tela 2018-04-30 as 23 45 03](https://user-images.githubusercontent.com/12216463/39459451-0ed92b5c-4cd2-11e8-8cae-88e484e48d48.png)
 ![captura de tela 2018-04-30 as 23 45 14](https://user-images.githubusercontent.com/12216463/39459452-0ef82584-4cd2-11e8-81d6-d3686afefd92.png)
